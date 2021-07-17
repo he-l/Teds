@@ -5,6 +5,6 @@ package com.zkyt;
  */
 public class Dgh {
     public static void main(String[] args) {
-        System.out.println("giuyiuiii");
+        System.out.println("giuyiuiii一块");
     }
 }
